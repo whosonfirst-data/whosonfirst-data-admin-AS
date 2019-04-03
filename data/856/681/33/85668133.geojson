@@ -1,0 +1,197 @@
+{
+  "id": 85668133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":1021480.411148,
+    "geom:bbox":"-168.17308509,-14.5328915335,-168.160471158,-14.5197893205",
+    "geom:latitude":-14.525255,
+    "geom:longitude":-168.165129,
+    "gp:id":0,
+    "iso:country":"AS",
+    "label:eng_x_preferred_longname":[
+        "Rose Atoll"
+    ],
+    "lbl:latitude":-14.524979,
+    "lbl:longitude":-168.165033,
+    "mps:latitude":-14.524979,
+    "mps:longitude":-168.165033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:cat_x_preferred":[
+        "Atol de Rose"
+    ],
+    "name:ceb_x_preferred":[
+        "Rose Atoll"
+    ],
+    "name:deu_x_preferred":[
+        "Rose-Atoll"
+    ],
+    "name:eng_x_preferred":[
+        "Rose Atoll"
+    ],
+    "name:eng_x_variant":[
+        "Rose Island",
+        "Motu O Manu"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Rose"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Rose"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30ba\u74b0\u7901"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10d6\u10d4"
+    ],
+    "name:pol_x_preferred":[
+        "Rose Atoll"
+    ],
+    "name:por_x_preferred":[
+        "Atol Rose"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Roseatollen"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0631\u0648\u0632"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u65af\u73af\u7901"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"ASM",
+    "ne:adm0_label":"7",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"ASM-5000",
+    "ne:adm1_code":"ASM-5000",
+    "ne:admin":"American Samoa",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"AS.UU",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5000",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"60030",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"American Samoa",
+    "ne:gn_a1_code":"AS.030",
+    "ne:gn_id":"7309441",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Rose Atoll",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"ASM",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"AS-",
+    "ne:iso_a2":"AS",
+    "ne:labelrank":"20",
+    "ne:latitude":"-14.52500000000",
+    "ne:longitude":"-168.16600000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":1,
+    "ne:name":"Rose Atoll",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"US1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Rose_Atoll",
+    "ne:woe_id":-99,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"American Samoa",
+    "qs:a0_lc":"AS",
+    "qs:a1":"Rose Atoll",
+    "qs:a1_lc":"ASM-5000",
+    "qs:adm0":"American Samoa",
+    "qs:adm0_a3":"ASM",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":559,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85632697,
+        85633793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"60030",
+        "gn:id":7309441,
+        "gp:id":-99,
+        "hasc:id":"AS.UU",
+        "wd:id":"Q1636779"
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id",
+        "wof:belongsto"
+    ],
+    "wof:country":"AS",
+    "wof:geomhash":"9a10da4135a11e1bb4bd8495779cb2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "dependency_id":85632697,
+            "empire_id":85633793,
+            "region_id":85668133
+        }
+    ],
+    "wof:id":85668133,
+    "wof:lang_x_official":[
+        "smo",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "smo",
+        "eng"
+    ],
+    "wof:lastmodified":1553624505,
+    "wof:name":"Rose Atoll",
+    "wof:parent_id":85632697,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:shortcode":"UU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -168.17308508990496,
+    -14.53289153351739,
+    -168.1604711575179,
+    -14.51978932052066
+],
+  "geometry": {"coordinates":[[[-168.16156979091309,-14.53289153351739],[-168.17308508990496,-14.5236955707939],[-168.16352291604971,-14.51978932052066],[-168.16047115751789,-14.52092864374185],[-168.16156979091309,-14.53289153351739]]],"type":"Polygon"}
+}

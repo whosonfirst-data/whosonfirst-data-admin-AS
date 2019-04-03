@@ -1,0 +1,73 @@
+{
+  "id": 1327170971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-170.71861,-14.28917,-170.71861,-14.28917",
+    "geom:latitude":-14.28917,
+    "geom:longitude":-170.71861,
+    "gn:admin1_code":"010",
+    "gn:asciiname":"Fagalea",
+    "gn:country_code":"AS",
+    "gn:dem":126,
+    "gn:elevation":"128.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5880931,
+    "gn:latitude":-14.28917,
+    "gn:longitude":-170.71861,
+    "gn:modification_date":"2010-10-12",
+    "gn:name":"Fagalea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pago_Pago",
+    "iso:country":"AS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fangalea",
+        "Fagale`a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632697,
+        85668127,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5880931
+    },
+    "wof:country":"AS",
+    "wof:geomhash":"2ca3768b1e127c64161b940daccbb5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632697,
+            "empire_id":136253057,
+            "locality_id":1327170971,
+            "region_id":85668127
+        }
+    ],
+    "wof:id":1327170971,
+    "wof:lastmodified":1537584910,
+    "wof:name":"Fagalea",
+    "wof:parent_id":85668127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -170.71861,
+    -14.28917,
+    -170.71861,
+    -14.28917
+],
+  "geometry": {"coordinates":[-170.71861000000001,-14.28917],"type":"Point"}
+}

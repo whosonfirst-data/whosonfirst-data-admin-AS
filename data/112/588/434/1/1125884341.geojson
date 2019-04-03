@@ -1,0 +1,79 @@
+{
+  "id": 1125884341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-170.77,-14.31972,-170.77,-14.31972",
+    "geom:latitude":-14.31972,
+    "geom:longitude":-170.77,
+    "gn:gn_country":"AS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":966,
+    "gn:population":966,
+    "iso:country":"AS",
+    "lbl:latitude":-14.31972,
+    "lbl:longitude":-170.77,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AS",
+    "qs_pg:gn_country":"AS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":5880833,
+    "qs_pg:gn_pop":966,
+    "qs_pg:name":"Aoloau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":614394,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632697,
+        85668139,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5880833,
+        "qs_pg:id":614394
+    },
+    "wof:country":"AS",
+    "wof:created":1497295001,
+    "wof:geomhash":"c35e978f4ba1951a8ecec7e1e0b0906c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632697,
+            "empire_id":136253057,
+            "locality_id":1125884341,
+            "region_id":85668139
+        }
+    ],
+    "wof:id":1125884341,
+    "wof:lastmodified":1509998539,
+    "wof:name":"Aoloau",
+    "wof:parent_id":85668139,
+    "wof:placetype":"locality",
+    "wof:population":966,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -170.77,
+    -14.31972,
+    -170.77,
+    -14.31972
+],
+  "geometry": {"coordinates":[-170.77000000000001,-14.31972],"type":"Point"}
+}

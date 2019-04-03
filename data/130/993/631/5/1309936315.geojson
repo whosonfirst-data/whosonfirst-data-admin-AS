@@ -1,0 +1,62 @@
+{
+  "id": 1309936315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.60861,-14.17417,-169.60861,-14.17417",
+    "geom:latitude":-14.17417,
+    "geom:longitude":-169.60861,
+    "gn:admin1_code":"020",
+    "gn:asciiname":"Tafalau (historical)",
+    "gn:country_code":"AS",
+    "gn:dem":366,
+    "gn:elevation":"1.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":5881201,
+    "gn:latitude":-14.17417,
+    "gn:longitude":-169.60861,
+    "gn:modification_date":"2014-10-08",
+    "gn:name":"Tafalau (historical)",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pago_Pago",
+    "iso:country":"AS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5881201
+    },
+    "wof:country":"AS",
+    "wof:geomhash":"ebb972b4b183e64d448de9bb2aede7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309936315,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309936315,
+    "wof:lastmodified":1536742871,
+    "wof:name":"Tafalau (historical)",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.60861,
+    -14.17417,
+    -169.60861,
+    -14.17417
+],
+  "geometry": {"coordinates":[-169.60861,-14.17417],"type":"Point"}
+}

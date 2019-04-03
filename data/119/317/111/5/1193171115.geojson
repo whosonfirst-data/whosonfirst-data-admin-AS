@@ -1,0 +1,65 @@
+{
+  "id": 1193171115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-170.65889,-14.29361,-170.65889,-14.29361",
+    "geom:latitude":-14.29361,
+    "geom:longitude":-170.65889,
+    "gn:admin1_code":"010",
+    "gn:asciiname":"Lauliifou",
+    "gn:country_code":"AS",
+    "gn:dem":1,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5881356,
+    "gn:latitude":-14.29361,
+    "gn:longitude":-170.65889,
+    "gn:modification_date":"2010-10-12",
+    "gn:name":"Lauliifou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pago_Pago",
+    "iso:country":"AS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lauli`ifou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5881356
+    },
+    "wof:country":"AS",
+    "wof:geomhash":"edd0c0eed63a945273875d46c9e47ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193171115,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193171115,
+    "wof:lastmodified":1537584910,
+    "wof:name":"Lauliifou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -170.65889,
+    -14.29361,
+    -170.65889,
+    -14.29361
+],
+  "geometry": {"coordinates":[-170.65889000000001,-14.29361],"type":"Point"}
+}

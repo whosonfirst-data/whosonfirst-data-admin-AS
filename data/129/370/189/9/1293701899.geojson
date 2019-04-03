@@ -1,0 +1,68 @@
+{
+  "id": 1293701899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.50222,-14.25056,-169.50222,-14.25056",
+    "geom:latitude":-14.25056,
+    "geom:longitude":-169.50222,
+    "gn:asciiname":"Fagamalo (historical)",
+    "gn:country_code":"AS",
+    "gn:dem":42,
+    "gn:elevation":"21.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":5881239,
+    "gn:latitude":-14.25056,
+    "gn:longitude":-169.50222,
+    "gn:modification_date":"2011-12-12",
+    "gn:name":"Fagamalo (historical)",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pago_Pago",
+    "iso:country":"AS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632697,
+        85668131,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5881239
+    },
+    "wof:country":"AS",
+    "wof:geomhash":"2933ac1f7805bb7cf7a0cb26c90bad15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632697,
+            "empire_id":136253057,
+            "locality_id":1293701899,
+            "region_id":85668131
+        }
+    ],
+    "wof:id":1293701899,
+    "wof:lastmodified":1536974689,
+    "wof:name":"Fagamalo (historical)",
+    "wof:parent_id":85668131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.50222,
+    -14.25056,
+    -169.50222,
+    -14.25056
+],
+  "geometry": {"coordinates":[-169.50221999999999,-14.25056],"type":"Point"}
+}

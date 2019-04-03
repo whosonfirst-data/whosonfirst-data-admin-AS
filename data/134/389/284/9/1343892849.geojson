@@ -1,0 +1,70 @@
+{
+  "id": 1343892849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-170.74389,-14.33,-170.74389,-14.33",
+    "geom:latitude":-14.33,
+    "geom:longitude":-170.74389,
+    "gn:admin1_code":"050",
+    "gn:asciiname":"Mapusaga",
+    "gn:country_code":"AS",
+    "gn:dem":51,
+    "gn:elevation":"67.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5881433,
+    "gn:latitude":-14.33,
+    "gn:longitude":-170.74389,
+    "gn:modification_date":"2010-10-12",
+    "gn:name":"Mapusaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pago_Pago",
+    "iso:country":"AS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632697,
+        85668139,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5881433,
+        "wk:page":"Mapusaga%2C_American_Samoa"
+    },
+    "wof:country":"AS",
+    "wof:geomhash":"f13aea979110f282e38763d981edb3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632697,
+            "empire_id":136253057,
+            "locality_id":1343892849,
+            "region_id":85668139
+        }
+    ],
+    "wof:id":1343892849,
+    "wof:lastmodified":1537486356,
+    "wof:name":"Mapusaga",
+    "wof:parent_id":85668139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -170.74389,
+    -14.33,
+    -170.74389,
+    -14.33
+],
+  "geometry": {"coordinates":[-170.74388999999999,-14.33],"type":"Point"}
+}

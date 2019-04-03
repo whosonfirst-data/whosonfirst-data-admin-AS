@@ -1,0 +1,62 @@
+{
+  "id": 1276795595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.60833,-14.18917,-169.60833,-14.18917",
+    "geom:latitude":-14.18917,
+    "geom:longitude":-169.60833,
+    "gn:admin1_code":"020",
+    "gn:asciiname":"Oge (historical)",
+    "gn:country_code":"AS",
+    "gn:dem":-9999,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":5881561,
+    "gn:latitude":-14.18917,
+    "gn:longitude":-169.60833,
+    "gn:modification_date":"2014-10-08",
+    "gn:name":"Oge (historical)",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pago_Pago",
+    "iso:country":"AS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5881561
+    },
+    "wof:country":"AS",
+    "wof:geomhash":"30838a8a8f14956da834b3a0d62765cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276795595,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276795595,
+    "wof:lastmodified":1536656753,
+    "wof:name":"Oge (historical)",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.60833,
+    -14.18917,
+    -169.60833,
+    -14.18917
+],
+  "geometry": {"coordinates":[-169.60833,-14.18917],"type":"Point"}
+}

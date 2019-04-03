@@ -1,0 +1,69 @@
+{
+  "id": 1310634547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-170.65833,-14.2575,-170.65833,-14.2575",
+    "geom:latitude":-14.2575,
+    "geom:longitude":-170.65833,
+    "gn:admin1_code":"010",
+    "gn:asciiname":"Amalau (historical)",
+    "gn:country_code":"AS",
+    "gn:dem":180,
+    "gn:elevation":"162.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":5880789,
+    "gn:latitude":-14.2575,
+    "gn:longitude":-170.65833,
+    "gn:modification_date":"2011-12-11",
+    "gn:name":"Amalau (historical)",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pago_Pago",
+    "iso:country":"AS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632697,
+        85668127,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5880789
+    },
+    "wof:country":"AS",
+    "wof:geomhash":"746e865ef47a7d0d813d59f1d6bd7b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632697,
+            "empire_id":136253057,
+            "locality_id":1310634547,
+            "region_id":85668127
+        }
+    ],
+    "wof:id":1310634547,
+    "wof:lastmodified":1536731101,
+    "wof:name":"Amalau (historical)",
+    "wof:parent_id":85668127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -170.65833,
+    -14.2575,
+    -170.65833,
+    -14.2575
+],
+  "geometry": {"coordinates":[-170.65833000000001,-14.2575],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209244007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-170.66222,-14.2925,-170.66222,-14.2925",
+    "geom:latitude":-14.2925,
+    "geom:longitude":-170.66222,
+    "gn:admin1_code":"010",
+    "gn:asciiname":"Tafananai",
+    "gn:country_code":"AS",
+    "gn:dem":1,
+    "gn:elevation":"1.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5880963,
+    "gn:latitude":-14.2925,
+    "gn:longitude":-170.66222,
+    "gn:modification_date":"2010-10-12",
+    "gn:name":"Tafananai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pago_Pago",
+    "iso:country":"AS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5880963
+    },
+    "wof:country":"AS",
+    "wof:geomhash":"5f0c57f61f11da8ca1c38b87aa90e3d0",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632697,
+            "locality_id":1209244007
+        }
+    ],
+    "wof:id":1209244007,
+    "wof:lastmodified":1536293227,
+    "wof:name":"Tafananai",
+    "wof:parent_id":85632697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -170.66222,
+    -14.2925,
+    -170.66222,
+    -14.2925
+],
+  "geometry": {"coordinates":[-170.66221999999999,-14.2925],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1310142373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-169.42,-14.24139,-169.42,-14.24139",
+    "geom:latitude":-14.24139,
+    "geom:longitude":-169.42,
+    "gn:admin1_code":"020",
+    "gn:asciiname":"Saua (historical)",
+    "gn:country_code":"AS",
+    "gn:dem":-9999,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":5881010,
+    "gn:latitude":-14.24139,
+    "gn:longitude":-169.42,
+    "gn:modification_date":"2014-10-08",
+    "gn:name":"Saua (historical)",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pago_Pago",
+    "iso:country":"AS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5881010
+    },
+    "wof:country":"AS",
+    "wof:geomhash":"de84f3d6ddbaec570168cd7dd0cf884f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310142373,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310142373,
+    "wof:lastmodified":1536943784,
+    "wof:name":"Saua (historical)",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.42,
+    -14.24139,
+    -169.42,
+    -14.24139
+],
+  "geometry": {"coordinates":[-169.41999999999999,-14.24139],"type":"Point"}
+}

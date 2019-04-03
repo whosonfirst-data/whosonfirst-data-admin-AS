@@ -1,0 +1,61 @@
+{
+  "id": 1209042595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.07476,-11.06028,-171.07476,-11.06028",
+    "geom:latitude":-11.06028,
+    "geom:longitude":-171.07476,
+    "gn:admin1_code":"040",
+    "gn:asciiname":"Etena - Jennings Residency",
+    "gn:country_code":"AS",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":5881218,
+    "gn:latitude":-11.06028,
+    "gn:longitude":-171.07476,
+    "gn:modification_date":"2010-12-02",
+    "gn:name":"Etena - Jennings Residency",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pago_Pago",
+    "iso:country":"AS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5881218
+    },
+    "wof:country":"AS",
+    "wof:geomhash":"7734fd64d1819c31175881b8b4b1be18",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632697,
+            "locality_id":1209042595
+        }
+    ],
+    "wof:id":1209042595,
+    "wof:lastmodified":1536299497,
+    "wof:name":"Etena - Jennings Residency",
+    "wof:parent_id":85632697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-as",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.07476,
+    -11.06028,
+    -171.07476,
+    -11.06028
+],
+  "geometry": {"coordinates":[-171.07476,-11.06028],"type":"Point"}
+}
