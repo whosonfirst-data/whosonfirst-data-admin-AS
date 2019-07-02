@@ -31,9 +31,6 @@
     "name:bam_x_preferred":[
         "Vaitogi"
     ],
-    "name:baq_x_preferred":[
-        "Vaitogi"
-    ],
     "name:bar_x_preferred":[
         "Vaitogi"
     ],
@@ -43,16 +40,19 @@
     "name:cat_x_preferred":[
         "Vaitogi"
     ],
+    "name:ces_x_preferred":[
+        "Vaitogi"
+    ],
     "name:cos_x_preferred":[
         "Vaitogi"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Vaitogi"
     ],
     "name:dan_x_preferred":[
         "Vaitogi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vaitogi"
     ],
     "name:eng_x_preferred":[
@@ -64,22 +64,22 @@
     "name:est_x_preferred":[
         "Vaitogi"
     ],
+    "name:eus_x_preferred":[
+        "Vaitogi"
+    ],
     "name:fin_x_preferred":[
         "Vaitogi"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Vaitogi"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Vaitogi"
     ],
     "name:frp_x_preferred":[
         "Vaitogi"
     ],
     "name:fur_x_preferred":[
-        "Vaitogi"
-    ],
-    "name:ger_x_preferred":[
         "Vaitogi"
     ],
     "name:gla_x_preferred":[
@@ -139,19 +139,22 @@
     "name:ltz_x_preferred":[
         "Vaitogi"
     ],
-    "name:may_x_preferred":[
-        "Vaitogi"
-    ],
     "name:min_x_preferred":[
         "Vaitogi"
     ],
     "name:mlg_x_preferred":[
         "Vaitogi"
     ],
+    "name:msa_x_preferred":[
+        "Vaitogi"
+    ],
     "name:nap_x_preferred":[
         "Vaitogi"
     ],
     "name:nds_x_preferred":[
+        "Vaitogi"
+    ],
+    "name:nld_x_preferred":[
         "Vaitogi"
     ],
     "name:nno_x_preferred":[
@@ -190,7 +193,7 @@
     "name:roh_x_preferred":[
         "Vaitogi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vaitogi"
     ],
     "name:scn_x_preferred":[
@@ -199,7 +202,7 @@
     "name:sco_x_preferred":[
         "Vaitogi"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vaitogi"
     ],
     "name:spa_x_preferred":[
@@ -230,9 +233,6 @@
         "Vaitogi"
     ],
     "name:vol_x_preferred":[
-        "Vaitogi"
-    ],
-    "name:wel_x_preferred":[
         "Vaitogi"
     ],
     "name:wln_x_preferred":[
@@ -282,7 +282,7 @@
         }
     ],
     "wof:id":1125875767,
-    "wof:lastmodified":1513889605,
+    "wof:lastmodified":1561827014,
     "wof:name":"Vaitogi",
     "wof:parent_id":85668139,
     "wof:placetype":"locality",

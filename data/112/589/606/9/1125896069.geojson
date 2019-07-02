@@ -22,22 +22,19 @@
     "name:bos_x_preferred":[
         "Fagatogo"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u52a0\u6258\u6208"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Fagatogo"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
+        "Fagatogo"
+    ],
+    "name:deu_x_preferred":[
         "Fagatogo"
     ],
     "name:eng_x_preferred":[
         "Fagatogo"
     ],
-    "name:fre_x_preferred":[
-        "Fagatogo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fagatogo"
     ],
     "name:gla_x_preferred":[
@@ -52,10 +49,13 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a1\u30ac\u30c8\u30b4"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0424\u0430\u0433\u0430\u0442\u043e\u0433\u043e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Fagatogo"
+    ],
+    "name:nld_x_preferred":[
         "Fagatogo"
     ],
     "name:pol_x_preferred":[
@@ -85,8 +85,8 @@
     "name:war_x_preferred":[
         "Fagatogo"
     ],
-    "name:wel_x_preferred":[
-        "Fagatogo"
+    "name:zho_x_preferred":[
+        "\u6cd5\u52a0\u6258\u6208"
     ],
     "qs_pg:aaroncc":"AS",
     "qs_pg:gn_country":"AS",
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":1125896069,
-    "wof:lastmodified":1513889603,
+    "wof:lastmodified":1561827014,
     "wof:name":"Fagatogo",
     "wof:parent_id":85668127,
     "wof:placetype":"locality",
