@@ -38,8 +38,14 @@
         "Rose Island",
         "Motu O Manu"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u200c\u0633\u0646\u06af \u062d\u0644\u0642\u0648\u06cc \u0631\u0632"
+    ],
     "name:glg_x_preferred":[
         "Atol Rose"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d8\u05d5\u05dc \u05e8\u05d5\u05d6"
     ],
     "name:ita_x_preferred":[
         "Atollo Rose"
@@ -49,6 +55,12 @@
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10dd\u10d6\u10d4"
+    ],
+    "name:lit_x_preferred":[
+        "Rozos atolas"
+    ],
+    "name:nld_x_preferred":[
+        "Rose Atoll"
     ],
     "name:pol_x_preferred":[
         "Rose Atoll"
@@ -177,7 +189,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1553624505,
+    "wof:lastmodified":1563234936,
     "wof:name":"Rose Atoll",
     "wof:parent_id":85632697,
     "wof:placetype":"region",

@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "'Aoa"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0648\u0622"
+    ],
     "name:ita_x_preferred":[
         "'Aoa"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:pol_x_preferred":[
         "Aoa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043e\u0430"
     ],
     "name:unk_x_variant":[
         "Aoa"
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1125830299,
-    "wof:lastmodified":1561827014,
+    "wof:lastmodified":1563234949,
     "wof:name":"`Aoa",
     "wof:parent_id":85668127,
     "wof:placetype":"locality",
