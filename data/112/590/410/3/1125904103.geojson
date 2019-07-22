@@ -19,11 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0641\u0648\u0646\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u0101funa"
+    ],
     "name:deu_x_preferred":[
         "T\u0101funa"
     ],
     "name:eng_x_preferred":[
         "Tafuna"
+    ],
+    "name:est_x_preferred":[
+        "Tafuna"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0641\u0648\u0646\u0627"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u0586\u0578\u0582\u0576\u0561"
@@ -54,6 +66,9 @@
     ],
     "name:unk_x_variant":[
         "Tafuna"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0641\u0648\u0646\u0627"
     ],
     "name:zho_x_preferred":[
         "\u5854\u5bcc\u7eb3"
@@ -96,7 +111,7 @@
         }
     ],
     "wof:id":1125904103,
-    "wof:lastmodified":1561827014,
+    "wof:lastmodified":1563234945,
     "wof:name":"T\u0101funa",
     "wof:parent_id":85668139,
     "wof:placetype":"locality",
