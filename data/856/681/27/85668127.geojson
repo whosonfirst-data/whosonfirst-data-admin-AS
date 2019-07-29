@@ -25,8 +25,32 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Eastern"
+    ],
+    "name:deu_x_preferred":[
+        "Eastern"
+    ],
     "name:eng_x_preferred":[
         "Eastern"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30fc\u30b9\u30bf\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Eastern"
+    ],
+    "name:pol_x_preferred":[
+        "Eastern"
+    ],
+    "name:por_x_preferred":[
+        "Eastern"
+    ],
+    "name:swe_x_preferred":[
+        "Eastern"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u01a1ng \u0110\u00f4ng"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ASM",
@@ -150,7 +174,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1553550293,
+    "wof:lastmodified":1564218534,
     "wof:name":"Eastern",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
