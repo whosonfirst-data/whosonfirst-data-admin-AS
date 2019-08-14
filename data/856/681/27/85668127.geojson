@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ET"
+    ],
     "lbl:latitude":-14.276923,
     "lbl:longitude":-170.684093,
     "mps:latitude":-14.276923,
@@ -163,9 +166,6 @@
         }
     ],
     "wof:id":85668127,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -174,7 +174,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1564218534,
+    "wof:lastmodified":1565652144,
     "wof:name":"Eastern",
     "wof:parent_id":85632697,
     "wof:placetype":"region",

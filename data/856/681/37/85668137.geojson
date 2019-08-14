@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "unorganized territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UU"
+    ],
     "lbl:latitude":-11.058187,
     "lbl:longitude":-171.079888,
     "mps:latitude":-11.058187,
@@ -137,9 +140,6 @@
         }
     ],
     "wof:id":85668137,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -148,7 +148,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1553550293,
+    "wof:lastmodified":1565652144,
     "wof:name":"Swain's Island",
     "wof:parent_id":85632697,
     "wof:placetype":"region",

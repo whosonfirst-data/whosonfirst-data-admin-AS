@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Rose Atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UU"
+    ],
     "lbl:latitude":-14.524979,
     "lbl:longitude":-168.165033,
     "mps:latitude":-14.524979,
@@ -189,7 +192,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1563234936,
+    "wof:lastmodified":1565652144,
     "wof:name":"Rose Atoll",
     "wof:parent_id":85632697,
     "wof:placetype":"region",

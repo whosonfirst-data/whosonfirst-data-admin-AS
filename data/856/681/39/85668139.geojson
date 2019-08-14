@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WT"
+    ],
     "lbl:latitude":-14.327712,
     "lbl:longitude":-170.752953,
     "mps:latitude":-14.327712,
@@ -191,9 +194,6 @@
         }
     ],
     "wof:id":85668139,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -202,7 +202,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1564218535,
+    "wof:lastmodified":1565652144,
     "wof:name":"Western",
     "wof:parent_id":85632697,
     "wof:placetype":"region",

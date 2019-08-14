@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":-14.24246,
     "lbl:longitude":-169.482274,
     "mps:latitude":-14.24246,
@@ -140,9 +143,6 @@
         }
     ],
     "wof:id":85668131,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "smo",
         "eng"
@@ -151,7 +151,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1553550293,
+    "wof:lastmodified":1565652144,
     "wof:name":"Manu's",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
