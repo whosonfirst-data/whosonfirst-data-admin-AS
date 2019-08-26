@@ -24,8 +24,12 @@
     "gn:population":873,
     "gn:timezone":"Pacific/Pago_Pago",
     "iso:country":"AS",
+    "lbl:bbox":"-169.53444,-14.25361,-169.49444,-14.21361",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Opoun",
         "Tau",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243206689,
-    "wof:lastmodified":1537584910,
+    "wof:lastmodified":1566588589,
     "wof:name":"Ta`u",
     "wof:parent_id":85668131,
     "wof:placetype":"locality",

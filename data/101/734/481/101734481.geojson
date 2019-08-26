@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012543,
+    "geom:area_square_m":152219674.829283,
     "geom:bbox":"-171.141907,-11.11013,-171.011158,-10.997203",
     "geom:latitude":-11.054387,
     "geom:longitude":-171.07493,
     "iso:country":"AS",
     "lbl:latitude":-11.053647,
     "lbl:longitude":-171.074926,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-11.053647,
     "mps:longitude":-171.074926,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Swain"
     ],
@@ -51,7 +56,7 @@
     "qs:type":"G4110",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632697,
@@ -62,7 +67,7 @@
         "gp:id":29389553
     },
     "wof:country":"AS",
-    "wof:geomhash":"b5b55cbfd8eca73ace345240b1082ee6",
+    "wof:geomhash":"040fb16fe8e26f930928a2dd12a0bf58",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,7 +77,7 @@
         }
     ],
     "wof:id":101734481,
-    "wof:lastmodified":1477508269,
+    "wof:lastmodified":1566588584,
     "wof:name":"Swains",
     "wof:parent_id":85668137,
     "wof:placetype":"locality",

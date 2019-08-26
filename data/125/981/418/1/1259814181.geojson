@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Pago_Pago",
     "iso:country":"AS",
+    "lbl:bbox":"-170.75083,-14.34917,-170.71083,-14.30917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632697,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259814181,
-    "wof:lastmodified":1536878363,
+    "wof:lastmodified":1566588589,
     "wof:name":"Tafunafou",
     "wof:parent_id":85668139,
     "wof:placetype":"locality",
