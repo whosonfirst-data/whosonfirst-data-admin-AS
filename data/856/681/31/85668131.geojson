@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-14.24246,
     "lbl:longitude":-169.482274,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-14.24246,
     "mps:longitude":-169.482274,
     "mz:hierarchy_label":1,
@@ -31,7 +32,7 @@
     "name:eng_x_preferred":[
         "Manua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Manu'a"
     ],
     "ne:abbrev":"",
@@ -103,9 +104,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-01",
+    "src:population_date":"2010-04-01",
     "statoids:area_km":"57",
     "statoids:area_mi":"22",
     "statoids:as_of_date":"2010-04-01",
@@ -129,7 +130,7 @@
         "gn:id":5881436,
         "gp:id":24549644,
         "hasc:id":"AS.MA",
-        "qs:id":959566
+        "qs_pg:id":959566
     },
     "wof:country":"AS",
     "wof:geomhash":"ee2ade9165c87d752ed1986380abb39c",
@@ -151,11 +152,10 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1565652144,
+    "wof:lastmodified":1566588580,
     "wof:name":"Manu's",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1143,
     "wof:population_rank":3,
