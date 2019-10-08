@@ -1,10 +1,12 @@
 {
   "id": 85668127,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-as",
+  "properties": {
+    "src:alt_label":"uscensus-display-terrestrial-zoom-10",
     "src:geom":"uscensus",
-    "wof:geomhash":"2f5d4d92ecb9e6be666a21585df09022",
-    "wof:id":85668127
+    "wof:geomhash":"9196ad8c8472142dd092ba6d340e8b89",
+    "wof:id":85668127,
+    "wof:repo":"whosonfirst-data-admin-as"
 },
   "bbox": [
     -171.089874,
