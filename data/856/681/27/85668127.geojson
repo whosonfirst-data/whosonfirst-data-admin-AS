@@ -125,7 +125,7 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -156,6 +156,9 @@
         "qs_pg:id":1263411
     },
     "wof:country":"AS",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"514c8de74e2a022f84d38176132023ea",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1566588580,
+    "wof:lastmodified":1582358653,
     "wof:name":"Eastern",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
