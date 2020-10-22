@@ -9,7 +9,6 @@
     "geom:bbox":"-171.086537239,-11.0660946588,-171.072824674,-11.051364842",
     "geom:latitude":-11.057943,
     "geom:longitude":-171.079758,
-    "gn:id":"",
     "iso:country":"AS",
     "label:eng_x_preferred_longname":[
         "Swain's Island Unorganized Territory"
@@ -149,7 +148,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1566588580,
+    "wof:lastmodified":1603260100,
     "wof:name":"Swain's Island",
     "wof:parent_id":85632697,
     "wof:placetype":"region",

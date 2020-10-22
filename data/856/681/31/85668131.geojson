@@ -9,7 +9,6 @@
     "geom:bbox":"-169.676218228,-14.2717424462,-169.440134244,-14.1688778628",
     "geom:latitude":-14.234547,
     "geom:longitude":-169.513662,
-    "gn:id":"",
     "iso:country":"AS",
     "label:eng_x_preferred_longname":[
         "Manu's District"
@@ -152,7 +151,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1566588580,
+    "wof:lastmodified":1603260100,
     "wof:name":"Manu's",
     "wof:parent_id":85632697,
     "wof:placetype":"region",

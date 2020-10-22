@@ -9,7 +9,6 @@
     "geom:bbox":"-170.721506314,-14.3148196862,-170.567250129,-14.2523739559",
     "geom:latitude":-14.276019,
     "geom:longitude":-170.657216,
-    "gn:id":"",
     "iso:country":"AS",
     "label:eng_x_preferred_longname":[
         "Eastern District"
@@ -157,7 +156,8 @@
     },
     "wof:country":"AS",
     "wof:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus-display-terrestrial-zoom-10",
+        "uscensus"
     ],
     "wof:geomhash":"514c8de74e2a022f84d38176132023ea",
     "wof:hierarchy":[
@@ -178,7 +178,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1582358653,
+    "wof:lastmodified":1603260100,
     "wof:name":"Eastern",
     "wof:parent_id":85632697,
     "wof:placetype":"region",

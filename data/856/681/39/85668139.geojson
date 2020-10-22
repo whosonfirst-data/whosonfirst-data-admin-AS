@@ -9,7 +9,6 @@
     "geom:bbox":"-170.831247525,-14.3746884091,-170.692633467,-14.2892391909",
     "geom:latitude":-14.325101,
     "geom:longitude":-170.757679,
-    "gn:id":"",
     "iso:country":"AS",
     "label:eng_x_preferred_longname":[
         "Western District"
@@ -203,7 +202,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1566588580,
+    "wof:lastmodified":1603260100,
     "wof:name":"Western",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
