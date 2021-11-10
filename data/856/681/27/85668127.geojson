@@ -57,7 +57,16 @@
         "Eastern"
     ],
     "name:vie_x_preferred":[
+        "Qu\u1eadn \u0110\u00f4ng"
+    ],
+    "name:vie_x_variant":[
         "Ph\u01b0\u01a1ng \u0110\u00f4ng"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e1c\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6771\u65b9"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ASM",
@@ -181,7 +190,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1627521499,
+    "wof:lastmodified":1636502855,
     "wof:name":"Eastern",
     "wof:parent_id":85632697,
     "wof:placetype":"region",

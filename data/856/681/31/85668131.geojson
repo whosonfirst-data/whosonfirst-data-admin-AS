@@ -33,10 +33,64 @@
         "Manua"
     ],
     "name:fra_x_preferred":[
+        "Manus"
+    ],
+    "name:fra_x_variant":[
         "Manu'a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05db\u05e1 \u05de\u05d0\u05d5\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0928\u0941'\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Manu's"
+    ],
+    "name:ind_x_preferred":[
+        "Manus"
+    ],
+    "name:ita_x_preferred":[
+        "Manu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30cc\u30fc\u30ba"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub204\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Manu's"
+    ],
+    "name:pol_x_preferred":[
+        "Manu's"
+    ],
+    "name:por_x_preferred":[
+        "Manus"
+    ],
+    "name:swe_x_preferred":[
+        "Manu's"
+    ],
+    "name:tur_x_preferred":[
+        "Manu's"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0443\u0441"
     ],
     "name:und_x_variant":[
         "Manu'a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Manu'a"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u52aa\u65af\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u52aa\u65af"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ASM",
@@ -155,7 +209,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1627521499,
+    "wof:lastmodified":1636502855,
     "wof:name":"Manu's",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
