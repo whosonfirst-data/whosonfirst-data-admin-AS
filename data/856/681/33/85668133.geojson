@@ -169,6 +169,10 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
+    "uscensus:population":0,
+    "uscensus:population_year":2020,
     "wd:wordcount":559,
     "wof:belongsto":[
         102191583,
@@ -208,10 +212,11 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1684392883,
+    "wof:lastmodified":1684434498,
     "wof:name":"Rose Atoll",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-as",
     "wof:shortcode":"UU",
     "wof:superseded_by":[],
