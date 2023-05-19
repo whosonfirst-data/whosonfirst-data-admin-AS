@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":1874111.09334,
+    "geom:area_square_m":1874071.285443,
     "geom:bbox":"-171.086537,-11.066095,-171.072825,-11.051365",
     "geom:latitude":-11.057943,
     "geom:longitude":-171.079758,
@@ -165,8 +165,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"2",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2010-04-01",
@@ -179,6 +179,8 @@
     "statoids:population":"17",
     "statoids:timezone":"-11",
     "statoids:type":"unorganized territory",
+    "uscensus:population":0,
+    "uscensus:population_year":2020,
     "wof:belongsto":[
         102191583,
         85632697
@@ -189,10 +191,11 @@
         "gn:id":5881199,
         "gp:id":24549643,
         "hasc:id":"AS.UU",
-        "qs_pg:id":352431
+        "qs_pg:id":352431,
+        "uscensus:geoid":"60040"
     },
     "wof:country":"AS",
-    "wof:geomhash":"25d8ba7d9057a1f70bbb9adea20d6e76",
+    "wof:geomhash":"feec09f0f79667666ba9e8e134a7d422",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -209,12 +212,12 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1636502855,
+    "wof:lastmodified":1684438875,
     "wof:name":"Swain's Island",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
     "wof:placetype_local":"unorganized territory",
-    "wof:population":17,
+    "wof:population":0,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-as",
     "wof:shortcode":"UU",

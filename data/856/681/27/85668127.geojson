@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004552,
-    "geom:area_square_m":54544851.858931,
+    "geom:area_square_m":54545190.600739,
     "geom:bbox":"-170.721506,-14.31482,-170.56725,-14.252374",
     "geom:latitude":-14.276019,
     "geom:longitude":-170.657216,
@@ -140,8 +140,8 @@
         "uscensus"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"67",
     "statoids:area_mi":"26",
     "statoids:as_of_date":"2010-04-01",
@@ -154,6 +154,8 @@
     "statoids:population":"23030",
     "statoids:timezone":"-11",
     "statoids:type":"district",
+    "uscensus:population":17059,
+    "uscensus:population_year":2020,
     "wof:belongsto":[
         102191583,
         85632697,
@@ -165,13 +167,14 @@
         "gn:id":5881219,
         "gp:id":24549646,
         "hasc:id":"AS.ET",
-        "qs_pg:id":1263411
+        "qs_pg:id":1263411,
+        "uscensus:geoid":"60010"
     },
     "wof:country":"AS",
     "wof:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "wof:geomhash":"1cda8039953cf6649223b6a0a986b98c",
+    "wof:geomhash":"fb252c82873d35f79a69209b296553c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -190,13 +193,13 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1636502855,
+    "wof:lastmodified":1684438875,
     "wof:name":"Eastern",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
-    "wof:population":23030,
-    "wof:population_rank":7,
+    "wof:population":17059,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-as",
     "wof:shortcode":"ET",
     "wof:superseded_by":[],

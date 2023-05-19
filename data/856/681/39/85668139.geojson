@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00646,
-    "geom:area_square_m":77399175.77725,
+    "geom:area_square_m":77399662.04807,
     "geom:bbox":"-170.831248,-14.374688,-170.692633,-14.289239",
     "geom:latitude":-14.325101,
     "geom:longitude":-170.757679,
@@ -165,8 +165,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"75",
     "statoids:area_mi":"29",
     "statoids:as_of_date":"2010-04-01",
@@ -179,6 +179,8 @@
     "statoids:population":"31329",
     "statoids:timezone":"-11",
     "statoids:type":"district",
+    "uscensus:population":31819,
+    "uscensus:population_year":2020,
     "wof:belongsto":[
         102191583,
         85632697,
@@ -190,10 +192,11 @@
         "gn:id":5880873,
         "gp:id":24549645,
         "hasc:id":"AS.WT",
-        "qs_pg:id":114034
+        "qs_pg:id":114034,
+        "uscensus:geoid":"60050"
     },
     "wof:country":"AS",
-    "wof:geomhash":"6d87c5f0393c5e4394d470067adf10c0",
+    "wof:geomhash":"a4bc0ae88d5cdfab405d6ba2da603f67",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -212,12 +215,12 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1636502856,
+    "wof:lastmodified":1684438875,
     "wof:name":"Western",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
-    "wof:population":31329,
+    "wof:population":31819,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-as",
     "wof:shortcode":"WT",
