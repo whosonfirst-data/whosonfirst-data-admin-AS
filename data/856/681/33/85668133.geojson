@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Rose-Atoll"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03cc\u03bb\u03b7 \u03a1\u03cc\u03bf\u03c5\u03b6"
+    ],
     "name:eng_x_preferred":[
         "Rose Atoll"
     ],
@@ -63,6 +66,9 @@
     "name:kat_x_preferred":[
         "\u10e0\u10dd\u10d6\u10d4"
     ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc988 \ud658\ucd08"
+    ],
     "name:lit_x_preferred":[
         "Rozos atolas"
     ],
@@ -78,8 +84,20 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0437\u0435"
     ],
+    "name:smo_x_preferred":[
+        "Rose Motu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u0420\u043e\u0441\u0435"
+    ],
     "name:swe_x_preferred":[
         "Roseatollen"
+    ],
+    "name:tgl_x_preferred":[
+        "Atol ng Rose"
+    ],
+    "name:tur_x_preferred":[
+        "Rose Atolu"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0632 \u0627\u06cc\u0679\u0648\u0644"
@@ -89,6 +107,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o san h\u00f4 Rose"
+    ],
+    "name:vie_x_variant":[
+        "Rose Atoll"
     ],
     "name:zho_cn_x_preferred":[
         "\u7f57\u65af\u73af\u7901"
@@ -194,7 +215,7 @@
         "wof:belongsto"
     ],
     "wof:country":"AS",
-    "wof:geomhash":"72938f4f09e4730482e4a56cf51565ee",
+    "wof:geomhash":"c4b99ff6f7acf790e0fb977551e51cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -212,7 +233,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1690850822,
     "wof:name":"Rose Atoll",
     "wof:parent_id":85632697,
     "wof:placetype":"region",

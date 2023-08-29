@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u0648"
+    ],
     "name:ceb_x_preferred":[
         "Alao"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125852241,
-    "wof:lastmodified":1566588588,
+    "wof:lastmodified":1690850824,
     "wof:name":"Alao",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

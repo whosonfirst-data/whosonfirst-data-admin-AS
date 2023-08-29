@@ -64,6 +64,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0444\u0443\u043d\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Tafuna"
+    ],
     "name:swe_x_preferred":[
         "T\u0101funa"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125904103,
-    "wof:lastmodified":1566588587,
+    "wof:lastmodified":1690850823,
     "wof:name":"T\u0101funa",
     "wof:parent_id":85668139,
     "wof:placetype":"locality",

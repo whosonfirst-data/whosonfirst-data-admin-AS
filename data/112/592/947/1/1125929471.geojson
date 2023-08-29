@@ -43,6 +43,9 @@
     "name:pol_x_preferred":[
         "Leone"
     ],
+    "name:spa_x_preferred":[
+        "Leone"
+    ],
     "name:swe_x_preferred":[
         "Leone"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125929471,
-    "wof:lastmodified":1566588585,
+    "wof:lastmodified":1690850822,
     "wof:name":"Leone",
     "wof:parent_id":85668139,
     "wof:placetype":"locality",
