@@ -194,6 +194,7 @@
         "qs_pg:id":352431,
         "uscensus:geoid":"60040"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"AS",
     "wof:geomhash":"feec09f0f79667666ba9e8e134a7d422",
     "wof:hierarchy":[
@@ -212,7 +213,7 @@
         "smo",
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1695885335,
     "wof:name":"Swain's Island",
     "wof:parent_id":85632697,
     "wof:placetype":"region",
