@@ -17,7 +17,7 @@
     "mps:latitude":-11.053647,
     "mps:longitude":-171.074926,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Swain"
@@ -64,8 +64,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":29389553
+        "gp:id":29389553,
+        "uscensus:geoid":"6072900"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"AS",
     "wof:geomhash":"040fb16fe8e26f930928a2dd12a0bf58",
     "wof:hierarchy":[
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101734481,
-    "wof:lastmodified":1566588584,
+    "wof:lastmodified":1722051423,
     "wof:name":"Swains",
     "wof:parent_id":85668137,
     "wof:placetype":"locality",
